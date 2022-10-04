@@ -7,4 +7,5 @@ let fullName = firstName + " " + lastName;
 console.log(`hello, my name is ${fullName}.`);
 let myAge = 24;
 let currentYr = 2022;
-let myBirthYr = console.log(currentYr - myAge);
+let myBirthYr = currentYr - myAge;
+   myBirthYr = console.log(myBirthYr);
