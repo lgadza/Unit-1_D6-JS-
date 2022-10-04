@@ -28,5 +28,4 @@ let carbonara = forthMix + (3 / 4) * blackPepper;
 // Spaghetti alla Carbonara read to be served
 console.log(`carbonara: ${carbonara}`);
 
-console.log(carbonara);
 console.log("Enjoy your 'Spaghetti alla Carbonara' :)");
